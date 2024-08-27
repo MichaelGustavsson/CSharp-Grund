@@ -1,0 +1,14 @@
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/bin/Debug/net8.0/simpleATM
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/bin/Debug/net8.0/simpleATM.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/bin/Debug/net8.0/simpleATM.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/bin/Debug/net8.0/simpleATM.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/bin/Debug/net8.0/simpleATM.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/simpleATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/simpleATM.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/simpleATM.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/simpleATM.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/simpleATM.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/refint/simpleATM.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/simpleATM.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/simpleATM.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-03/simpleATM/obj/Debug/net8.0/ref/simpleATM.dll
