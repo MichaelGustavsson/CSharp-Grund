@@ -1,3 +1,4 @@
+using System.Collections;
 using System.ComponentModel.DataAnnotations;
 
 namespace atm;
@@ -10,6 +11,11 @@ public class BankAccount
   // Deklarera en variabel för att lagra
   // aktuellt saldo
   int balance = 0;
+
+  // Lagra alla uttag i någon typ av lista...
+  // ArrayList transactions = [];
+  List<int> transactions = new List<int>();
+  // List<int> transactions = [];
 
   // Metoder...
   // Metod för att sätta in pengar på vårt konto...
@@ -32,6 +38,8 @@ public class BankAccount
     if (balance > amount)
     {
       balance -= amount;
+      // Lägger till transaktionen i listan transactions...
+      transactions.Add(amount);
     }
     else
     {
@@ -43,5 +51,12 @@ public class BankAccount
   public int DisplayBalance()
   {
     return balance;
+  }
+
+  // Metod för att hämta aktuella transaktioner...
+  public List<int> DisplayTransactions()
+  {
+    // Returnerar listan av transaktioner...
+    return transactions;
   }
 }
