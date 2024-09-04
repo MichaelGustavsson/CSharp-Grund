@@ -1,0 +1,14 @@
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/bin/Debug/net8.0/MyBank
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/bin/Debug/net8.0/MyBank.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/bin/Debug/net8.0/MyBank.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/bin/Debug/net8.0/MyBank.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/bin/Debug/net8.0/MyBank.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/MyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/MyBank.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/MyBank.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/MyBank.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/MyBank.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/refint/MyBank.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/MyBank.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/MyBank.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/MyBank/obj/Debug/net8.0/ref/MyBank.dll

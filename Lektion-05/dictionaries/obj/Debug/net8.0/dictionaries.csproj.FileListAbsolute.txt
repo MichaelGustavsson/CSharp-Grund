@@ -1,0 +1,14 @@
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/bin/Debug/net8.0/dictionaries
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/bin/Debug/net8.0/dictionaries.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/bin/Debug/net8.0/dictionaries.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/bin/Debug/net8.0/dictionaries.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/bin/Debug/net8.0/dictionaries.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/dictionaries.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/dictionaries.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/dictionaries.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/dictionaries.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/refint/dictionaries.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/dictionaries.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/dictionaries.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/dictionaries/obj/Debug/net8.0/ref/dictionaries.dll

@@ -1,0 +1,14 @@
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/bin/Debug/net8.0/stacks
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/bin/Debug/net8.0/stacks.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/bin/Debug/net8.0/stacks.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/bin/Debug/net8.0/stacks.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/bin/Debug/net8.0/stacks.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/stacks.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/stacks.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/stacks.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/stacks.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/refint/stacks.dll
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/stacks.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/stacks.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-05/stacks/obj/Debug/net8.0/ref/stacks.dll
