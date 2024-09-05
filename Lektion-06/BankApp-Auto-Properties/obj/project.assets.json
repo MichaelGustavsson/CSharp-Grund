@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/BankApp-Properties/BankApp.csproj",
+      "projectUniqueName": "/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/BankApp-Auto-Properties/BankApp.csproj",
       "projectName": "BankApp",
-      "projectPath": "/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/BankApp-Properties/BankApp.csproj",
+      "projectPath": "/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/BankApp-Auto-Properties/BankApp.csproj",
       "packagesPath": "/Users/michaelgustavsson/.nuget/packages/",
-      "outputPath": "/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/BankApp-Properties/obj/",
+      "outputPath": "/Users/michaelgustavsson/Documents/Development/Courses/C#/Grund/Lektioner/Lektion-06/BankApp-Auto-Properties/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/michaelgustavsson/.nuget/NuGet/NuGet.Config"
