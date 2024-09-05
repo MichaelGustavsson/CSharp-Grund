@@ -5,7 +5,7 @@ public class BankAccount
   // PUBLIKA FÄLT - KLASSENS INFORMATION(DATA) //
   private string _accountNumber = "";
   private decimal _balance;
-  public decimal _interestRate;
+  private decimal _interestRate;
   // -------------------------------------------------------------- //
 
   // GETTERS OCH SETTERS //
