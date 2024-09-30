@@ -1,0 +1,14 @@
+{
+  "orderId": 1,
+  "orderDate": "2024-09-30T16:04:06.444814+02:00",
+  "customer": {
+    "customerId": 100,
+    "createdAt": "2024-09-30T16:04:06.471133+02:00",
+    "lastBuy": "2024-09-30T16:04:06.471148+02:00",
+    "firstName": "Anneli",
+    "lastName": "Oskarsson",
+    "addressLine": "Storgatan 8",
+    "postalCode": "123 45",
+    "city": "Storstaden"
+  }
+}
