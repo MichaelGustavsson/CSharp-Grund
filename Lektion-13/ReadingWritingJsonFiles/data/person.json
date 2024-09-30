@@ -1,0 +1,13 @@
+{
+  "createdAt": "2024-09-30T14:52:08.51466+02:00",
+  "firstName": "Erik",
+  "lastName": "Larsson",
+  "email": "erik@gmail.com",
+  "phone": "031-111222",
+  "age": 25,
+  "address": {
+    "addressLine": "Citronfjärilsvägen 1",
+    "postalCode": "333 44",
+    "city": "Hålan"
+  }
+}
