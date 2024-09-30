@@ -1,0 +1,30 @@
+@model List<InvoiceLib.Invoice>
+
+<a asp-controller="Home" asp-action="Index">Tillbaka</a>
+<h1>Fakturahantering</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Fakturanummer</th>
+      <th>Fakturadatum</th>
+      <th>Förfallodatum</th>
+      <th>Kund</th>
+      <th>Fakturabelopp</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var invoice in Model)
+    {
+      <tr>
+        <td><a asp-controller="Invoice" asp-action="Details" asp-route-id="@invoice.InvoiceNumber">Visa info</a></td>
+        <td>@invoice.InvoiceNumber</td>
+        <td>@invoice.InvoiceDate.ToString("yyyy-MM-dd")</td>
+        <td>@invoice.DueDate.ToString("yyyy-MM-dd")</td>
+        <td>@invoice.Customer.Name</td>
+        <td>@invoice.TotalValue</td>
+      </tr>
+    }
+  </tbody>
+</table>

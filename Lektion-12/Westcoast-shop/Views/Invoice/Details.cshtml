@@ -1,0 +1,16 @@
+@model InvoiceLib.Invoice
+
+<a asp-controller="Invoice" asp-action="Index">Tillbaka till fakturalistningen</a>
+
+<h1>Faktura information</h1>
+<h2>Detaljer</h2>
+<div>Fakturanummer: @Model.InvoiceNumber</div>
+<div>Fakturadatum: @Model.InvoiceDate.ToString("yyyy-MM-dd")</div>
+<div>Förfallodatum: @Model.DueDate.ToString("yyyy-MM-dd")</div>
+
+<hr>
+@* Lista alla fakturarader... *@
+@foreach (var item in @Model.InvoiceItems)
+{
+  <div>@item</div>
+}
