@@ -1,0 +1,14 @@
+@model List<eShop.models.SalesOrder>
+
+<h1>Aktuella beställningar</h1>
+
+@foreach (var order in Model)
+{
+  <div>@order</div>
+  <ul>
+  @foreach (var item in order!.OrderItems!)
+    {
+      <li>@item</li>
+    }
+  </ul>
+}
