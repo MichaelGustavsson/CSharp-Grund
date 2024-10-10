@@ -1,0 +1,25 @@
+@model List<eShop.models.Customer>
+
+<h1 class="page-title">Alla kunder</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Kundnr</th>
+      <th>Namn</th>
+      <th>E-post</th>
+      <th>Telefon</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var customer in Model)
+    {
+      <tr>
+        <td>@customer.CustomerId</td>
+        <td>@customer.FirstName @customer.LastName</td>
+        <td>@customer.Email</td>
+        <td>@customer.Phone</td>
+      </tr>
+    }
+  </tbody>
+</table>

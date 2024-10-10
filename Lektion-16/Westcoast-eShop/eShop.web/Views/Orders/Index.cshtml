@@ -1,0 +1,25 @@
+@model List<eShop.models.SalesOrder>
+
+<h1 class="page-title">Aktuella beställningar</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Info</th>
+      <th>Ordernummer</th>
+      <th>Datum</th>
+      <th>Kund</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var order in Model)
+    {
+      <tr>
+        <td><a asp-controller="Orders" asp-action="Details" asp-route-id="@order.OrderId">Klicka här</a></td>
+        <td>@order.OrderId</td>
+        <td>@order.OrderDate.ToString("yyyy-MM-dd")</td>
+        <td>@order.Customer!.FirstName @order.Customer.LastName</td>
+      </tr>
+    }
+  </tbody>
+</table>
