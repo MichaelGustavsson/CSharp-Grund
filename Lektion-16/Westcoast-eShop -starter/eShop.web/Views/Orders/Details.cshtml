@@ -1,0 +1,59 @@
+@model eShop.models.SalesOrder;
+
+<h1 class="page-title">Beställnings info</h1>
+
+<article>
+  <h2 class="sub-title">@Model.Customer!.FirstName @Model.Customer.LastName</h2>
+  <section class="card">
+    <div>
+      <span>Ordernummer:</span>
+      <span>@Model.OrderId</span>
+    </div>
+    <div>
+      <span>Order datum:</span>
+      <span>@Model.OrderDate.ToString("yyyy-MM-dd")</span>
+    </div>
+    <div>
+      <span>Adress:</span>
+      <span>@Model.Customer!.AddressLine</span>
+    </div>
+    <div>
+      <span>Postadress:</span>
+      <span>@Model.Customer!.PostalCode</span>
+    </div>
+    <div>
+      <span>Postort:</span>
+      <span>@Model.Customer!.City</span>
+    </div>
+  </section>
+  <section>
+    @* Lista alla orderrader *@
+    <table>
+      <thead>
+        <tr>
+          <th>Artikelnr</th>
+          <th>Produkt</th>
+          <th>Pris/enhet</th>
+          <th>Antal</th>
+          <th>Rabatt</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        @foreach (var item in @Model.OrderItems!)
+        {
+          <tr>
+            <td>@item.Product!.ProductId</td>
+            <td>@item.Product.Name</td>
+            <td>@item.Product.Price.ToString("0.00")</td>
+            <td>@item.Quantity</td>
+            <td>@((item.Discount * 100).ToString("0.00"))%</td>
+            <td>@item.LineSum.ToString("0.00")</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </section>
+  @* Länk för att skapa en faktura för beställningen *@
+  <a class="btn btn-rounded" asp-controller="Invoices" asp-action="Create">Skapa faktura</a>
+</article>

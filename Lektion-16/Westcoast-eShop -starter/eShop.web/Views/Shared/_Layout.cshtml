@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    <title>Westcoast e-Shop</title>
+</head>
+
+<body>
+    <header class="navbar-header">
+        <nav>
+            <ul>
+                <li class="logo"><a asp-controller="Home" asp-action="Index">Westcoast e-Shop</a></li>
+                <li class="menu-item"><a asp-controller="Products" asp-action="Index">Produkter</a></li>
+                <li class="menu-item"><a asp-controller="Orders" asp-action="Index">Beställningar</a></li>
+                <li class="menu-item"><a asp-controller="Invoices" asp-action="Index">Fakturor</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+</body>
+
+</html>
