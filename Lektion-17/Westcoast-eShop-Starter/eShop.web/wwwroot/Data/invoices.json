@@ -1,0 +1,202 @@
+[
+  {
+    "invoiceNumber": 0,
+    "invoiceDate": "2024-10-10T15:37:36.251121+02:00",
+    "dueDate": "2024-11-09T15:37:36.251121+01:00",
+    "totalValue": 4395,
+    "customer": {
+      "customerId": 100,
+      "addressLine": "Storgatan 8",
+      "city": "Storstaden",
+      "createdAt": "2024-10-01T13:12:33.745289+02:00",
+      "email": null,
+      "firstName": "Anneli",
+      "lastBuy": "2024-10-01T13:12:33.745306+02:00",
+      "lastName": "Oskarsson",
+      "phone": null,
+      "postalCode": "123 45"
+    },
+    "invoiceItems": [
+      {
+        "quantity": 10,
+        "lineSum": 400,
+        "product": {
+          "productId": 1,
+          "itemNumber": "1-5679X",
+          "name": "Sliptrissor",
+          "price": 40
+        }
+      },
+      {
+        "quantity": 1,
+        "lineSum": 3995,
+        "product": {
+          "productId": 2,
+          "itemNumber": "1-5665X",
+          "name": "Slipmaskin",
+          "price": 3995
+        }
+      }
+    ]
+  },
+  {
+    "invoiceNumber": 0,
+    "invoiceDate": "2024-10-10T15:39:20.274814+02:00",
+    "dueDate": "2024-11-09T15:39:20.274814+01:00",
+    "totalValue": 2700.0,
+    "customer": {
+      "customerId": 100,
+      "addressLine": "Vikenvägen 1",
+      "city": "Lillstaden",
+      "createdAt": "2024-10-01T13:12:33.745644+02:00",
+      "email": null,
+      "firstName": "Annika",
+      "lastBuy": "2024-10-01T13:12:33.745644+02:00",
+      "lastName": "Eriksson",
+      "phone": null,
+      "postalCode": "123 45"
+    },
+    "invoiceItems": [
+      {
+        "quantity": 100,
+        "lineSum": 200,
+        "product": {
+          "productId": 3,
+          "itemNumber": "1-5645X",
+          "name": "Diskborstar",
+          "price": 2
+        }
+      },
+      {
+        "quantity": 200,
+        "lineSum": 2500.0,
+        "product": {
+          "productId": 4,
+          "itemNumber": "1-561115X",
+          "name": "Stålull",
+          "price": 12.5
+        }
+      }
+    ]
+  },
+  {
+    "invoiceNumber": 0,
+    "invoiceDate": "2024-10-10T15:44:33.093402+02:00",
+    "dueDate": "2024-11-09T15:44:33.093402+01:00",
+    "totalValue": 4395,
+    "customer": {
+      "customerId": 100,
+      "addressLine": "Storgatan 8",
+      "city": "Storstaden",
+      "createdAt": "2024-10-01T13:12:33.745289+02:00",
+      "email": null,
+      "firstName": "Anneli",
+      "lastBuy": "2024-10-01T13:12:33.745306+02:00",
+      "lastName": "Oskarsson",
+      "phone": null,
+      "postalCode": "123 45"
+    },
+    "invoiceItems": [
+      {
+        "quantity": 10,
+        "lineSum": 400,
+        "product": {
+          "productId": 1,
+          "itemNumber": "1-5679X",
+          "name": "Sliptrissor",
+          "price": 40
+        }
+      },
+      {
+        "quantity": 1,
+        "lineSum": 3995,
+        "product": {
+          "productId": 2,
+          "itemNumber": "1-5665X",
+          "name": "Slipmaskin",
+          "price": 3995
+        }
+      }
+    ]
+  },
+  {
+    "invoiceNumber": 4,
+    "invoiceDate": "2024-10-10T15:46:05.057285+02:00",
+    "dueDate": "2024-11-09T15:46:05.057285+01:00",
+    "totalValue": 2700.0,
+    "customer": {
+      "customerId": 100,
+      "addressLine": "Vikenvägen 1",
+      "city": "Lillstaden",
+      "createdAt": "2024-10-01T13:12:33.745644+02:00",
+      "email": null,
+      "firstName": "Annika",
+      "lastBuy": "2024-10-01T13:12:33.745644+02:00",
+      "lastName": "Eriksson",
+      "phone": null,
+      "postalCode": "123 45"
+    },
+    "invoiceItems": [
+      {
+        "quantity": 100,
+        "lineSum": 200,
+        "product": {
+          "productId": 3,
+          "itemNumber": "1-5645X",
+          "name": "Diskborstar",
+          "price": 2
+        }
+      },
+      {
+        "quantity": 200,
+        "lineSum": 2500.0,
+        "product": {
+          "productId": 4,
+          "itemNumber": "1-561115X",
+          "name": "Stålull",
+          "price": 12.5
+        }
+      }
+    ]
+  },
+  {
+    "invoiceNumber": 5,
+    "invoiceDate": "2024-10-10T15:46:17.491324+02:00",
+    "dueDate": "2024-11-09T15:46:17.491324+01:00",
+    "totalValue": 4395,
+    "customer": {
+      "customerId": 100,
+      "addressLine": "Storgatan 8",
+      "city": "Storstaden",
+      "createdAt": "2024-10-01T13:12:33.745289+02:00",
+      "email": null,
+      "firstName": "Anneli",
+      "lastBuy": "2024-10-01T13:12:33.745306+02:00",
+      "lastName": "Oskarsson",
+      "phone": null,
+      "postalCode": "123 45"
+    },
+    "invoiceItems": [
+      {
+        "quantity": 10,
+        "lineSum": 400,
+        "product": {
+          "productId": 1,
+          "itemNumber": "1-5679X",
+          "name": "Sliptrissor",
+          "price": 40
+        }
+      },
+      {
+        "quantity": 1,
+        "lineSum": 3995,
+        "product": {
+          "productId": 2,
+          "itemNumber": "1-5665X",
+          "name": "Slipmaskin",
+          "price": 3995
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "productId": 1,
+    "itemNumber": "AA111",
+    "name": "Handslägga",
+    "price": 495
+  },
+  {
+    "productId": 2,
+    "itemNumber": "AA222",
+    "name": "Skruvdragare Dewalt",
+    "price": 2995
+  },
+  {
+    "productId": 3,
+    "itemNumber": "AA333",
+    "name": "Spikpistol",
+    "price": 4995
+  },
+  {
+    "productId": 4,
+    "itemNumber": "AA444",
+    "name": "Hylsnyckelsats 100",
+    "price": 1295
+  },
+  {
+    "productId": 5,
+    "itemNumber": "AA555",
+    "name": "Cirkelsåg Bosch",
+    "price": 2495
+  }
+]

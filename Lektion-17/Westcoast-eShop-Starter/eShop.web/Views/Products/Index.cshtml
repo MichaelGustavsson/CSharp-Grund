@@ -1,0 +1,25 @@
+@model List<eShop.models.Product>
+
+<h1 class="page-title">Alla produkter</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th width="110">Produkt id</th>
+      <th width="120" class="adjust-right">Artikelnr</th>
+      <th>Namn</th>
+      <th class="adjust-right">Pris</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var product in Model)
+    {
+      <tr>
+        <td>@product.ProductId</td>
+        <td class="adjust-right">@product.ItemNumber</td>
+        <td>@product.Name</td>
+        <td class="adjust-right">@product.Price.ToString("0.00")</td>
+      </tr>
+    }
+  </tbody>
+</table>

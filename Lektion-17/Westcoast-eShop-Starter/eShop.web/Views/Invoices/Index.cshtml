@@ -1,0 +1,27 @@
+@model List<eShop.models.Invoice>
+
+<h1 class="page-title">Aktuella fakturor</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th width="150">Fakturanummer</th>
+      <th width="150">Faktura datum</th>
+      <th width="150">Förfallo datum</th>
+      <th>Kund</th>
+      <th>Fakturabelopp</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var invoice in Model)
+    {
+      <tr>
+        <td>@invoice.InvoiceNumber</td>
+        <td>@invoice.InvoiceDate.ToString("yyyy-MM-dd")</td>
+        <td>@invoice.DueDate.ToString("yyyy-MM-dd")</td>
+        <td>@invoice.Customer</td>
+        <td>@invoice.TotalValue.ToString("0.00")</td>
+      </tr>
+    }
+  </tbody>
+</table>
