@@ -1,0 +1,31 @@
+[
+  {
+    "orderId": 1,
+    "customer": {
+      "customerId": 0,
+      "addressLine": null,
+      "city": null,
+      "createdAt": "0001-01-01T00:00:00",
+      "email": null,
+      "firstName": "Michael",
+      "lastBuy": "0001-01-01T00:00:00",
+      "lastName": "Gustavsson",
+      "phone": null,
+      "postalCode": null
+    },
+    "orderDate": "2024-10-15T14:55:53.837508+02:00",
+    "orderItems": [
+      {
+        "discount": 0.00,
+        "lineSum": 2995,
+        "product": {
+          "productId": 2,
+          "itemNumber": "AA222",
+          "name": "Skruvdragare Dewalt",
+          "price": 2995
+        },
+        "quantity": 1
+      }
+    ]
+  }
+]

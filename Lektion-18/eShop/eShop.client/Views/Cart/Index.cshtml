@@ -1,0 +1,10 @@
+@model List<eShop.models.Cart>
+
+<h1>Din kundkorg</h1>
+
+@foreach (var item in Model)
+{
+  <div>@item.ItemNumber - @item.Name</div>
+}
+
+<div><a asp-controller="Cart" asp-action="CheckOut">Checka ut</a></div>

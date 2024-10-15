@@ -1,0 +1,25 @@
+@model List<eShop.models.Product>
+
+<h1>Våra produkter</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Artikelnr</th>
+      <th>Namn</th>
+      <th>Pris</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var product in Model)
+    {
+      <tr>
+        <td>@product.ItemNumber</td>
+        <td>@product.Name</td>
+        <td>@product.Price</td>
+        <td><a asp-controller="Cart" asp-action="Add" asp-route-id="@product.ProductId">Lägg till kundkorg</a></td>
+      </tr>
+    }
+  </tbody>
+</table>
